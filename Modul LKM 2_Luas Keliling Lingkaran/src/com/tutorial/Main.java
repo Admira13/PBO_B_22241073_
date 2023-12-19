@@ -6,6 +6,7 @@ class Lingkaran {
 
     public Lingkaran (float r, float diameter) {
         this.r = r;
+        this.diameter = diameter;
     }
 
     void display() {
